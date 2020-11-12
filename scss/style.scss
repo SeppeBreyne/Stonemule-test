@@ -71,21 +71,33 @@ footer { border-top: none !important; }
             h2{
                 font-size: 6rem;
 
+
                 
             }
+      .height-adjust{
+          height: 55% !important;
+      }
         }
         @media only screen and (max-width: 420px) {
             h2{
                 font-size: 5rem;
+                
 
                 
             }
+            .height-adjust{
+                height: 65% !important;
+            }
+            
         }
         @media only screen and (max-width: 350px) {
             h2{
                 font-size: 4rem;
 
                 
+            }
+            .height-adjust{
+                height: 75% !important;
             }
         }
 

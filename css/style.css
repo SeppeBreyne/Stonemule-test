@@ -52,13 +52,19 @@ footer {
       font-weight: bold; }
     @media only screen and (max-width: 530px) {
       #headerimg .primary-overlay h2 {
-        font-size: 6rem; } }
+        font-size: 6rem; }
+      #headerimg .primary-overlay .height-adjust {
+        height: 55% !important; } }
     @media only screen and (max-width: 420px) {
       #headerimg .primary-overlay h2 {
-        font-size: 5rem; } }
+        font-size: 5rem; }
+      #headerimg .primary-overlay .height-adjust {
+        height: 65% !important; } }
     @media only screen and (max-width: 350px) {
       #headerimg .primary-overlay h2 {
-        font-size: 4rem; } }
+        font-size: 4rem; }
+      #headerimg .primary-overlay .height-adjust {
+        height: 75% !important; } }
     #headerimg .primary-overlay .btn {
       color: white;
       font-size: 1.3rem;
