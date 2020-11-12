@@ -59,11 +59,12 @@ footer {
   #headerimg {
     min-height: 1340px; }
     #headerimg .primary-overlay h2 {
+      margin-top: 3rem;
       font-size: 10rem; }
     #headerimg .primary-overlay .container {
       height: 85%; }
       #headerimg .primary-overlay .container p {
-        font-size: 1.7rem; } }
+        font-size: 1.4rem; } }
 #about .container .col p {
   letter-spacing: 0.12em;
   font-size: 1.1em; }

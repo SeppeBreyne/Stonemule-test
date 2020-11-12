@@ -67,6 +67,28 @@ footer { border-top: none !important; }
             font-weight: bold;
             
         }
+        @media only screen and (max-width: 530px) {
+            h2{
+                font-size: 6rem;
+
+                
+            }
+        }
+        @media only screen and (max-width: 420px) {
+            h2{
+                font-size: 5rem;
+
+                
+            }
+        }
+        @media only screen and (max-width: 350px) {
+            h2{
+                font-size: 4rem;
+
+                
+            }
+        }
+
         .btn{
             color: white;
             font-size: 1.3rem;
